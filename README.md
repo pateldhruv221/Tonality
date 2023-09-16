@@ -1,2 +1,2 @@
-# HTN2023
-HTN2023 Project
+# Tonality
+Project Submission for Hack The North (by Dhruv N. Patel and Harsh Patel)
