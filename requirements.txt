@@ -1,0 +1,11 @@
+Flask==2.2.2
+music21==8.3.0
+librosa==0.10.0
+soundfile==0.12.1
+aubio==0.4.9
+numpy==1.24.3
+tensorflow==2.13.0
+tensorflow_hub==0.14.0
+IPython==8.14.0
+scipy==1.11.1
+pydub==0.25.1
